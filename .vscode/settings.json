@@ -1,0 +1,10 @@
+{
+    "vsintellicode.java.completionsEnabled": false,
+    "java.completion.enabled": false,
+    "java.completion.postfix.enabled": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    }
+}
