@@ -6,5 +6,9 @@
     "editor.inlineSuggest.enabled": false,
     "editor.quickSuggestions": {
         "other": "off"
-    }
+    },
+    "java.server.launchMode": "Standard",
+    "java.diagnostic.filter": [
+        "**/*.java"
+    ]
 }
